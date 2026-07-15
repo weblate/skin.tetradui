@@ -7,18 +7,19 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-12-04 17:14+0000\n"
+"Last-Translator: Kai Sommerfeld <ksooo@users.noreply.kodi.weblate.cloud>\n"
+"Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/de_de/>\n"
 "Language: de_de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUI ist ein Skin-Addon für das Kodi Media Center"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
@@ -42,7 +43,7 @@ msgstr ""
 
 msgctxt "#31005"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
@@ -55,11 +56,11 @@ msgstr ""
 
 msgctxt "#31022"
 msgid "Forecast"
-msgstr ""
+msgstr "Vorhersage"
 
 msgctxt "#31023"
 msgid "Updated:"
-msgstr ""
+msgstr "Aktualisiert:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
@@ -67,20 +68,20 @@ msgstr ""
 
 msgctxt "#31026"
 msgid "Current"
-msgstr ""
+msgstr "Aktuell"
 
 msgctxt "#31102"
 msgid "Power Options"
-msgstr ""
+msgstr "Energieeinstellungen"
 
 # empty strings from id 31103 to 31199
 msgctxt "#31200"
 msgid "Items"
-msgstr ""
+msgstr "Einträge"
 
 msgctxt "#31201"
 msgid "Page"
-msgstr ""
+msgstr "Seite"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
@@ -93,75 +94,75 @@ msgstr ""
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
 msgid "Contributors"
-msgstr ""
+msgstr "Unterstützer"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "Render-Geschwindigkeit"
 
 msgctxt "#31212"
 msgid "Memory used"
-msgstr ""
+msgstr "Benutzter Arbeitsspeicher"
 
 msgctxt "#31213"
 msgid "Hardware decoding"
-msgstr ""
+msgstr "Hardware-Dekodierung"
 
 msgctxt "#31214"
 msgid "Pixel format"
-msgstr ""
+msgstr "Pixelformat"
 
 msgctxt "#31215"
 msgid "Frames per second"
-msgstr ""
+msgstr "Bilder pro Sekunde"
 
 msgctxt "#31216"
 msgid "aspect ratio"
-msgstr ""
+msgstr "Seitenverhältnis"
 
 msgctxt "#31217"
 msgid "Decoder"
-msgstr ""
+msgstr "Decoder"
 
 msgctxt "#31218"
 msgid "Codec"
-msgstr ""
+msgstr "Codec"
 
 msgctxt "#31219"
 msgid "Video process information"
-msgstr ""
+msgstr "Videoverarbeitungsinformation"
 
 msgctxt "#31220"
 msgid "Audio process information"
-msgstr ""
+msgstr "Audioverarbeitungsinformation"
 
 msgctxt "#31221"
 msgid "Location"
-msgstr ""
+msgstr "Ort"
 
 msgctxt "#31222"
 msgid "Play speed"
-msgstr ""
+msgstr "Wiedergabegeschwindigkeit"
 
 msgctxt "#31223"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Auflösung auswählen"
 
 msgctxt "#31224"
 msgid "Select Program"
-msgstr ""
+msgstr "Programm auswählen"
 
 msgctxt "#31225"
 msgid "Toggle subtitle"
-msgstr ""
+msgstr "Untertitel umschalten"
 
 msgctxt "#31226"
 msgid "Toggle audio stream"
-msgstr ""
+msgstr "Tonspur wechseln"
 
 msgctxt "#31227"
 msgid "available"
-msgstr ""
+msgstr "verfügbar"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
@@ -169,15 +170,15 @@ msgstr ""
 
 msgctxt "#31229"
 msgid "Play speed"
-msgstr ""
+msgstr "Wiedergabegeschwindigkeit"
 
 msgctxt "#31230"
 msgid "Playing"
-msgstr ""
+msgstr "Es läuft"
 
 msgctxt "#31231"
 msgid "Paused"
-msgstr ""
+msgstr "Pausiert"
 
 msgctxt "#31232"
 msgid "FF"
@@ -193,7 +194,7 @@ msgstr ""
 
 msgctxt "#31235"
 msgid "Now Playing"
-msgstr ""
+msgstr "Gerade läuft"
 
 msgctxt "#31236"
 msgid "End Time:"
@@ -221,7 +222,7 @@ msgstr ""
 
 msgctxt "#31242"
 msgid "Available groups"
-msgstr ""
+msgstr "Verfügbare Gruppen"
 
 msgctxt "#31243"
 msgid "Hidden channels"
@@ -229,27 +230,27 @@ msgstr ""
 
 msgctxt "#31244"
 msgid "Add group"
-msgstr ""
+msgstr "Gruppe hinzufügen"
 
 msgctxt "#31245"
 msgid "Rename group"
-msgstr ""
+msgstr "Gruppe umbenennen"
 
 msgctxt "#31246"
 msgid "Delete group"
-msgstr ""
+msgstr "Gruppe löschen"
 
 msgctxt "#31247"
 msgid "Timeshift"
-msgstr ""
+msgstr "Zeitversatz"
 
 msgctxt "#31248"
 msgid "Channel group"
-msgstr ""
+msgstr "Sendergruppe"
 
 msgctxt "#31249"
 msgid "Recently played"
-msgstr ""
+msgstr "Kürzlich wiedergegeben"
 
 msgctxt "#31250"
 msgid "Poster Big"
@@ -262,7 +263,7 @@ msgstr ""
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr ""
+msgstr "Bitte eine Musikquelle einrichten!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
@@ -270,7 +271,7 @@ msgstr ""
 
 msgctxt "#31302"
 msgid "Working"
-msgstr ""
+msgstr "Beschäftigt"
 
 msgctxt "#31303"
 msgid "Last logged on"
@@ -278,7 +279,7 @@ msgstr ""
 
 msgctxt "#31304"
 msgid "Memory Usage"
-msgstr ""
+msgstr "Speicherverwendung"
 
 msgctxt "#31305"
 msgid "Reset"
@@ -311,7 +312,7 @@ msgstr ""
 
 msgctxt "#31316"
 msgid "Search add-ons"
-msgstr ""
+msgstr "Addons suchen"
 
 msgctxt "#31317"
 msgid "Center top logo button"
@@ -324,7 +325,7 @@ msgstr ""
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
 msgid "Skin default"
-msgstr ""
+msgstr "Skin-Standard"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
@@ -397,12 +398,12 @@ msgstr ""
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
 msgid "Not installed"
-msgstr ""
+msgstr "Nicht installiert"
 
 # empty string with id 31500
 msgctxt "#31501"
 msgid "Featured"
-msgstr ""
+msgstr "Hervorgehoben"
 
 msgctxt "#31502"
 msgid "Blades"
@@ -414,31 +415,31 @@ msgstr ""
 
 msgctxt "#31504"
 msgid "Change mode"
-msgstr ""
+msgstr "Modus ändern"
 
 msgctxt "#31505"
 msgid "Watch as 2D"
-msgstr ""
+msgstr "In 2D ansehen"
 
 msgctxt "#31506"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Lokaler Untertitel verfügbar"
 
 msgctxt "#31507"
 msgid "Search local library"
-msgstr ""
+msgstr "Lokale Bibliothek durchsuchen"
 
 msgctxt "#31508"
 msgid "Search YouTube"
-msgstr ""
+msgstr "YouTube durchsuchen"
 
 msgctxt "#31509"
 msgid "Search add-ons"
-msgstr ""
+msgstr "Addons suchen"
 
 msgctxt "#31510"
 msgid "Video playlist"
-msgstr ""
+msgstr "Videowiedergabeliste"
 
 msgctxt "#31511"
 msgid "Select default background"
@@ -447,7 +448,7 @@ msgstr ""
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr ""
+msgstr "Spiel-Einstellungsmenü"
 
 msgctxt "#31519"
 msgid "Show splash screen"
@@ -469,13 +470,9 @@ msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
 msgstr ""
 
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
-
 msgctxt "#31525"
 msgid "Select rating"
-msgstr ""
+msgstr "Bewertung auswählen"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
@@ -512,7 +509,7 @@ msgstr ""
 
 msgctxt "#31538"
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
@@ -529,28 +526,28 @@ msgstr ""
 
 msgctxt "#31543"
 msgid "In cinemas"
-msgstr ""
+msgstr "In den Kinos"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Zukünftige Filme"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
-msgstr ""
+msgstr "Ungesehene Filme"
 
 msgctxt "#31546"
 msgid "Random movies"
-msgstr ""
+msgstr "Zufällige Filme"
 
 msgctxt "#31547"
 msgid "Premiered"
-msgstr ""
+msgstr "Erstmals ausgestrahlt"
 
 msgctxt "#31553"
 msgid "Settings level"
-msgstr ""
+msgstr "Einstellungsebene"
 
 msgctxt "#31554"
 msgid "Autologin"
-msgstr ""
+msgstr "Automatische Anmeldung"

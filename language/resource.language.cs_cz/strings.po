@@ -7,39 +7,39 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-25 10:33+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2026-07-15 17:38+0000\n"
+"Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/cs_cz/>\n"
 "Language: cs_cz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUI je doplněk vzhledu pro multimediální centrum Kodi"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUI je doplněk vzhledu pro multimediální centrum Kodi. Cílem TetradUI je vytvořit svěží moderní poctu klasickému panelovému uživatelskému rozhraní z původního dashboardu Xbox 360, známému také z prací Team Blackbolt a Jezz_X v projektech MC360 a JX720. TetradUI je založen na JX720 od Jezz_X.[CR]Tento doplněk vytvořili Jezz_X a TeamUI."
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "média"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "aplikace"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "systém"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "počasí"
 
 msgctxt "#31005"
 msgid "Apps"
@@ -48,11 +48,11 @@ msgstr "Aplikace"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUI je srdcový projekt vytvořený týmem TeamUI.[CR]Je to velký projekt a jeho vývoj a údržba vyžadují [I]hodně[/I] úsilí.[CR]Zvažte naskenování tohoto QR kódu a zaslání příspěvku, který pomůže projekt udržet v dobrém stavu.[CR]Velmi pomůže jakákoli částka a moc si jí vážíme."
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "Aplikace"
 
 msgctxt "#31022"
 msgid "Forecast"
@@ -64,7 +64,7 @@ msgstr "Aktualizované:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
-msgstr ""
+msgstr "Aktuální teplota"
 
 msgctxt "#31026"
 msgid "Current"
@@ -85,11 +85,11 @@ msgstr "Strana"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "MOŽNOSTI ZOBRAZENÍ"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "MOŽNOSTI PŘEHRÁVAČE"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
@@ -98,7 +98,7 @@ msgstr "Na vývoji se podíleli"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "Rychlost vykreslování"
 
 msgctxt "#31212"
 msgid "Memory used"
@@ -110,11 +110,11 @@ msgstr "Hardwarové dekódování"
 
 msgctxt "#31214"
 msgid "Pixel format"
-msgstr "Formát pixelu"
+msgstr "Formát pixelů"
 
 msgctxt "#31215"
 msgid "Frames per second"
-msgstr ""
+msgstr "Snímky za sekundu"
 
 msgctxt "#31216"
 msgid "aspect ratio"
@@ -126,7 +126,7 @@ msgstr "Dekodér"
 
 msgctxt "#31218"
 msgid "Codec"
-msgstr ""
+msgstr "Kodek"
 
 msgctxt "#31219"
 msgid "Video process information"
@@ -166,7 +166,7 @@ msgstr "dostupné"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "Zkratka doplňku"
 
 msgctxt "#31229"
 msgid "Play speed"
@@ -182,15 +182,15 @@ msgstr "Pozastaveno"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "Vpřed"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "Zpět"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "Ukládání do bufferu"
 
 msgctxt "#31235"
 msgid "Now Playing"
@@ -198,27 +198,27 @@ msgstr "Nyní přehrávám"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "Čas ukončení:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "Vítejte v TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "Navigace se provádí pomocí horního tlačítka s logem.[CR]V nastavení vzhledu ho lze umístit vlevo nahoře nebo doprostřed.[CR][CR][B]Horní tlačítko s logem[/B][CR]Mezi panely se přechází pomocí [I]vlevo[/I] a [I]vpravo[/I].[CR]Kliknutím na tlačítko s logem otevřete postranní panel se zkratkami.[CR][CR][B]Seznamy nabídek[/B][CR]Pokud nejsou k dispozici žádné widgety ani podnabídky, můžete mezi panely přecházet pomocí [I]vlevo[/I] a [I]vpravo[/I] ze seznamů nabídek.[CR][CR][B]Widgety[/B][CR]Pokud jsou k dispozici widgety, [I]vlevo[/I] ze seznamů nabídek vás přesune na widgety.[CR][I]Vlevo[/I] nebo [I]vpravo[/I] vás vrátí zpět na seznamy nabídek.[CR][CR][B]Seznamy podnabídek[/B][CR]Pokud jsou k dispozici podnabídky, [I]vpravo[/I] ze seznamů nabídek vás na ně přesune.[CR][I]Vlevo[/I] z podnabídek vás vrátí zpět do nabídky a [I]vpravo[/I] vás přesune na widgety.[CR]Pokud nejsou k dispozici žádné widgety, [I]vpravo[/I] přepne panel."
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "Už nikdy nezobrazovat"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Skryté kanály"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigace"
 
 msgctxt "#31242"
 msgid "Available groups"
@@ -226,7 +226,7 @@ msgstr "Dostupné skupiny"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Skryté kanály"
 
 msgctxt "#31244"
 msgid "Add group"
@@ -254,28 +254,28 @@ msgstr "Naposledy přehrané"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "Velký plakát"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "Miniatura s informacemi"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr ""
+msgstr "Nastavte prosím zdroj hudby!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "Nastavte prosím[CR]zdroje filmů a seriálů!"
 
 msgctxt "#31302"
 msgid "Working"
-msgstr "Pracuji"
+msgstr "Probíhá zpracování"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "Poslední přihlášení"
 
 msgctxt "#31304"
 msgid "Memory Usage"
@@ -283,32 +283,32 @@ msgstr "Využití paměti"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "Resetovat"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "Vypnout"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Ukončit Kodi"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "Skrýt tlačítko - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "Není povolen žádný doplněk počasí. Přejděte do Nastavení / Počasí a povolte předpověď počasí."
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "Skrýt widgety"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instalovat doplňky"
 
 msgctxt "#31316"
 msgid "Search add-ons"
@@ -316,84 +316,84 @@ msgstr "Hledat doplňky"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "Vystředit horní tlačítko s logem"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "RDS"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
 msgid "Skin default"
-msgstr "Výchozí nastavení vzhledu"
+msgstr "Výchozí písmo vzhledu"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "Založené na Arialu (nejvhodnější pro jiné jazyky než angličtinu)"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "Upravte nastavení zobrazení, včetně:[CR][CR]* výběru vzhledu[CR]* možností zobrazení[CR]* spořiče obrazovky[CR]* data a času"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Sledujte a spravujte protokolování událostí Kodi, včetně:[CR][CR]* selhání získávání informací do knihovny videí[CR]* aktualizací doplňků[CR]* aktivit PVR"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "Nakonfigurujte nastavení sítě a sdílení, včetně:[CR][CR]* proxy a DNS[CR]* sdílení souborů přes Sambu[CR]* serveru UPnP[CR]* webového serveru[CR]* ovládání externími aplikacemi"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "Důležitá systémová nastavení, včetně:[CR][CR]* hardwaru[CR]* úspory energie[CR]* vstupních zařízení[CR]* hlavního zámku uživatele"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "Spravujte uživatelské profily, včetně:[CR][CR]* vytváření profilů[CR]* mazání profilů[CR]* změn uživatelských nastavení"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "Změňte nastavení specifická pro vzhled, včetně:[CR][CR]* pozadí oken[CR]* možností zobrazení médií[CR]* balíčků obrázků[CR]* dalších různých voleb"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "Nakonfigurujte nastavení PVR, včetně:[CR][CR]* kanálů[CR]* TV programu[CR]* přehrávání[CR]* nahrávek[CR]* připomenutí"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "Nakonfigurujte nastavení přehrávače, včetně:[CR][CR]* voleb knihovny[CR]* hardwarové akcelerace[CR]* titulků[CR]* přehrávání DVD"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "Nakonfigurujte nastavení médií, včetně:[CR][CR]* voleb knihovny[CR]* správy souborů[CR]* voleb videí, hudby a obrázků"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Informace o Kodi a vašem hardwaru, včetně:[CR][CR]* úložiště[CR]* sítě[CR]* videa[CR]* hardwaru"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "Nakonfigurujte nastavení her, včetně:[CR][CR]* voleb hraní[CR]* správy RetroAchievements"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "Vítejte v Kodi[CR]Vyberte svůj profil a přihlaste se"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instalovat doplňky"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B]VAROVÁNÍ[/B]!![/COLOR][CR]Skrytí všech tlačítek způsobí problémy s navigací při přepínání mezi panely."
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "Tyto doplňky rozšíří funkce vzhledu a zlepší celkový dojem z jeho používání."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
@@ -407,11 +407,11 @@ msgstr "Doporučené"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "Panely"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "Balíčky obrázků"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -439,94 +439,90 @@ msgstr "Hledat doplňky"
 
 msgctxt "#31510"
 msgid "Video playlist"
-msgstr "Seznam stop videí"
+msgstr "Seznam video stop"
 
 msgctxt "#31511"
 msgid "Select default background"
-msgstr ""
+msgstr "Vybrat výchozí pozadí"
 
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr ""
+msgstr "Nabídka nastavení her"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "Zobrazit úvodní obrazovku"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "Zobrazovat právě přehrávané video na pozadí"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "Zobrazovat vizualizaci hudby na pozadí"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "Zobrazovat fanart odpovídající médiu na pozadí"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "Skrýt animaci dešťových kapek na pozadí"
 
 msgctxt "#31525"
 msgid "Select rating"
-msgstr ""
+msgstr "Vyberte hodnocení"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "Animovat všechna pozadí s fanartem"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "Animovat pozadí s fanartem při přehrávání hudby"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "Povolit pozadí s fanartem z Artist Slideshow"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "Rozmazat pozadí"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "Pouze fanart"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "Pouze pozadí"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "Fanart a pozadí"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "Informace o sbírce filmů"
 
 msgctxt "#31538"
 msgid "About"
-msgstr "O aplikaci"
+msgstr "O vzhledu"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "Podporované doplňky"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "Nastavit výchozí doplněk pro načítání textů skladeb v hudebním OSD"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "Rozkoukané"
 
 msgctxt "#31543"
 msgid "In cinemas"
@@ -534,15 +530,15 @@ msgstr "V kinech"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Připravované filmy"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
-msgstr "Neshlédnuté filmy"
+msgstr "Nezhlédnuté filmy"
 
 msgctxt "#31546"
 msgid "Random movies"
-msgstr "Náhodný film"
+msgstr "Náhodné filmy"
 
 msgctxt "#31547"
 msgid "Premiered"

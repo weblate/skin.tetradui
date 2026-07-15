@@ -7,320 +7,320 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-25 10:33+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2025-08-30 14:29+0000\n"
+"Last-Translator: SecularSteve <fairfull.playing@gmail.com>\n"
 "Language-Team: Bosnian (Bosnia and Herzegovina) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/bs_ba/>\n"
 "Language: bs_ba\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.13\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUI je kožni dodatak za Kodi medijski centar"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUI je dodatak za Kodi media center. Cilj TetradUI-ja je stvoriti svježu modernu omaž klasičnom korisničkom interfejsu u stilu blade-a koji se nalazi u originalnoj Xbox360 kontrolnoj tabli. Također se vidi u radovima Team Blackbolt i Jezz_X sa projektima MC360 i JX720 respektivno. TetradUI je baziran na JX720 od Jezz_X.[CR]Ovaj dodatak su kreirali Jezz_X i TeamUI."
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "mediji"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "aplikacije"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "sistem"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "vrijeme"
 
 msgctxt "#31005"
 msgid "Apps"
-msgstr ""
+msgstr "Aplikacije"
 
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUI je strastveni projekat koji je napravio TeamUI.[CR]To je veliki projekat i potrebno je [M]nogo[/M] truda za njegov razvoj i održavanje.[CR]Razmislite o skeniranju ovog QR koda i donaciji kako biste pomogli u održavanju ovog projekta.[CR]Svaki iznos mnogo pomaže i veoma je cijenjen."
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "Aplikacije"
 
 msgctxt "#31022"
 msgid "Forecast"
-msgstr ""
+msgstr "Prognoza"
 
 msgctxt "#31023"
 msgid "Updated:"
-msgstr ""
+msgstr "Ažurirano:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
-msgstr ""
+msgstr "Trenutna temperatura"
 
 msgctxt "#31026"
 msgid "Current"
-msgstr ""
+msgstr "Trenutni"
 
 msgctxt "#31102"
 msgid "Power Options"
-msgstr ""
+msgstr "Opcije napajanja"
 
 # empty strings from id 31103 to 31199
 msgctxt "#31200"
 msgid "Items"
-msgstr ""
+msgstr "Stavke"
 
 msgctxt "#31201"
 msgid "Page"
-msgstr ""
+msgstr "Stranica"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "POGLEDAJTE OPCIJE"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "OPCIJE IGRAČA"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
 msgid "Contributors"
-msgstr ""
+msgstr "Saradnici"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "Brzina renderiranja"
 
 msgctxt "#31212"
 msgid "Memory used"
-msgstr ""
+msgstr "Korištena memorija"
 
 msgctxt "#31213"
 msgid "Hardware decoding"
-msgstr ""
+msgstr "Hardversko dekodiranje"
 
 msgctxt "#31214"
 msgid "Pixel format"
-msgstr ""
+msgstr "Format piksela"
 
 msgctxt "#31215"
 msgid "Frames per second"
-msgstr ""
+msgstr "Broj sličica u sekundi"
 
 msgctxt "#31216"
 msgid "aspect ratio"
-msgstr ""
+msgstr "omjer širine i visine"
 
 msgctxt "#31217"
 msgid "Decoder"
-msgstr ""
+msgstr "Dekoder"
 
 msgctxt "#31218"
 msgid "Codec"
-msgstr ""
+msgstr "Kodek"
 
 msgctxt "#31219"
 msgid "Video process information"
-msgstr ""
+msgstr "Informacije o procesu videa"
 
 msgctxt "#31220"
 msgid "Audio process information"
-msgstr ""
+msgstr "Informacije o audio procesu"
 
 msgctxt "#31221"
 msgid "Location"
-msgstr ""
+msgstr "Lokacija"
 
 msgctxt "#31222"
 msgid "Play speed"
-msgstr ""
+msgstr "Brzina reprodukcije"
 
 msgctxt "#31223"
 msgid "Select Resolution"
-msgstr ""
+msgstr "Odaberite rezoluciju"
 
 msgctxt "#31224"
 msgid "Select Program"
-msgstr ""
+msgstr "Odaberite program"
 
 msgctxt "#31225"
 msgid "Toggle subtitle"
-msgstr ""
+msgstr "Uključi/isključi titl"
 
 msgctxt "#31226"
 msgid "Toggle audio stream"
-msgstr ""
+msgstr "Uključi/isključi audio stream"
 
 msgctxt "#31227"
 msgid "available"
-msgstr ""
+msgstr "dostupno"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "Prečica za dodatak"
 
 msgctxt "#31229"
 msgid "Play speed"
-msgstr ""
+msgstr "Brzina reprodukcije"
 
 msgctxt "#31230"
 msgid "Playing"
-msgstr ""
+msgstr "Pokreče se"
 
 msgctxt "#31231"
 msgid "Paused"
-msgstr ""
+msgstr "Zaustavljeno"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "FF"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "RW"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "Baferovanje"
 
 msgctxt "#31235"
 msgid "Now Playing"
-msgstr ""
+msgstr "Trenutno se reproducira"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "Vrijeme završetka:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "Dobrodošli u TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "Navigacija se vrši pomoću gornjeg dugmeta s logotipom.[CR]Korištenjem postavke skina, može se postaviti gore lijevo ili u sredinu.[CR][CR][B]Gornje dugme s logotipom[/B][CR]Navigacija između oštrica vrši se pomoću [I]lijevo[/I] i [I]desno[/I].[CR]Klikom na dugme s logotipom otvorit će se bočna oštrica prečica.[CR][CR][B]Liste menija[/B][CR]Ako nema widgeta ili podmenija, možete se kretati između oštrica pomoću [I]lijevo[/I] i [I]desno[/I] iz lista menija.[CR][CR][B]Widgeti[/B][CR]Ako su prisutni widgeti, [I]lijevo[/I] iz lista menija će vas odvesti do widgeta.[CR][I]Lijevo[/I] ili [I]desno[/I] će vas vratiti na liste menija.[CR][CR][B]Liste podmenija[/B][CR]Ako su prisutni podmeniji, [I]desno[/I] iz lista menija će vas odvesti tamo.[CR][I]Lijevo[/I] iz podmenija će vas vratiti u meni, a [I]desno[/I] će vas odvesti do widgeta.[CR]Ako nema widgeta, [I]desno[/I] će prebaciti oštricu."
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "Nikad više ne prikazuj"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Skriveni kanali"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigacija"
 
 msgctxt "#31242"
 msgid "Available groups"
-msgstr ""
+msgstr "Dostupne grupe"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Skriveni kanali"
 
 msgctxt "#31244"
 msgid "Add group"
-msgstr ""
+msgstr "Dodaj grupu"
 
 msgctxt "#31245"
 msgid "Rename group"
-msgstr ""
+msgstr "Preimenuj grupu"
 
 msgctxt "#31246"
 msgid "Delete group"
-msgstr ""
+msgstr "Izbriši grupu"
 
 msgctxt "#31247"
 msgid "Timeshift"
-msgstr ""
+msgstr "Vremenski pomak"
 
 msgctxt "#31248"
 msgid "Channel group"
-msgstr ""
+msgstr "Grupa kanala"
 
 msgctxt "#31249"
 msgid "Recently played"
-msgstr ""
+msgstr "Nedavno igrano"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "Veliki poster"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "Informacije o sličici"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr ""
+msgstr "Molimo vas da podesite izvor muzike!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "Molimo vas da podesite izvore filmova i TV emisija [CR]!"
 
 msgctxt "#31302"
 msgid "Working"
-msgstr ""
+msgstr "Obrađuje se"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "Posljednji put prijavljen/a"
 
 msgctxt "#31304"
 msgid "Memory Usage"
-msgstr ""
+msgstr "Korištenje memorije"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "Resetuj"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "Isključivanje napajanja"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Izađi iz Kodija"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "Sakrij dugme - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "Dodatak za vrijeme nije omogućen, idite u Postavke/Vrijeme da biste omogućili vremensku prognozu"
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "Sakrij vidžete"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instalirajte dodatke"
 
 msgctxt "#31316"
 msgid "Search add-ons"
-msgstr ""
+msgstr "Pretražite dodatke"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "Dugme za logo u sredini gornjeg dijela"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "RDS"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
@@ -329,229 +329,225 @@ msgstr "Podrazumjevana maska"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "Bazirano na Arialu (najbolje za one koji ne govore engleski)"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "Uredite postavke ekrana, uključujući:[CR][CR]* Odabir skina[CR]* Opcije prikaza[CR]* Čuvar ekrana[CR]* Datum i vrijeme"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Gledajte i upravljajte zapisivanjem Kodi događaja, uključujući:[CR][CR]* Neuspješno skidanje video zapisa iz biblioteke[CR]* Ažuriranja dodataka[CR]* PVR aktivnosti"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "Konfigurišite postavke mreže i dijeljenja, uključujući:[CR][CR]* Proxy i DNS[CR]* Dijeljenje Samba datoteka[CR]* UPNP server[CR]* Web server[CR]* Kontrola eksternih aplikacija"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "Važne sistemske postavke, uključujući:[CR][CR]* Hardver[CR]* Ušteda energije[CR]* Ulazni uređaji[CR]* Zaključavanje glavnog korisnika"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "Upravljanje korisničkim profilima, uključujući:[CR][CR]* Kreiranje profila[CR]* Brisanje profila[CR]* Promjena korisničkih postavki"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "Promijenite postavke specifične za skin, uključujući:[CR][CR]* Pozadine prozora[CR]* Opcije prikaza medija[CR]* Paketi slika[CR]* Ostale razne opcije"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "Konfigurišite PVR postavke, uključujući:[CR][CR]* Kanali[CR]* Vodič[CR]* Reprodukcija[CR]* Snimci[CR]* Podsjetnici"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "Konfigurišite postavke plejera, uključujući:[CR][CR]* Opcije biblioteke[CR]* Hardversko ubrzanje[CR]* Titlovi[CR]* Reprodukcija DVD-a"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "Konfigurišite postavke medija, uključujući:[CR][CR]* Opcije biblioteke[CR]* Upravljanje datotekama[CR]* Opcije za video zapise, muziku i slike"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Informacije o Kodiju i vašem hardveru, uključujući:[CR][CR]* Pohrana podataka[CR]* Mreža[CR]* Video[CR]* Hardver"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "Konfigurišite postavke igre, uključujući:[CR][CR]* Opcije igranja[CR]* Upravljanje RetroAchievements"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "Dobrodošli u Kodi[CR] Molimo odaberite svoj profil i prijavite se"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Instalirajte dodatke"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B]UPOZORENJE[/B] !![/COLOR][CR]Skrivanje svih dugmadi će uzrokovati probleme s navigacijom prilikom prebacivanja između oštrica."
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "Ovi dodaci će poboljšati karakteristike i cjelokupni doživljaj kože."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
 msgid "Not installed"
-msgstr ""
+msgstr "Nije instalirano"
 
 # empty string with id 31500
 msgctxt "#31501"
 msgid "Featured"
-msgstr ""
+msgstr "Istaknuto"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "Oštrice"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "Paketi slika"
 
 msgctxt "#31504"
 msgid "Change mode"
-msgstr ""
+msgstr "Promijeni način rada"
 
 msgctxt "#31505"
 msgid "Watch as 2D"
-msgstr ""
+msgstr "Gledaj kao 2D"
 
 msgctxt "#31506"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Dostupni su lokalni titlovi"
 
 msgctxt "#31507"
 msgid "Search local library"
-msgstr ""
+msgstr "Pretražite lokalnu biblioteku"
 
 msgctxt "#31508"
 msgid "Search YouTube"
-msgstr ""
+msgstr "Pretraži YouTube"
 
 msgctxt "#31509"
 msgid "Search add-ons"
-msgstr ""
+msgstr "Pretražite dodatke"
 
 msgctxt "#31510"
 msgid "Video playlist"
-msgstr ""
+msgstr "Plejlista videozapisa"
 
 msgctxt "#31511"
 msgid "Select default background"
-msgstr ""
+msgstr "Odaberite zadanu pozadinu"
 
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr ""
+msgstr "Meni postavki igre"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "Prikaži uvodni ekran"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "Prikaži video koji se trenutno reproducira u pozadini"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "Prikaži vizualizaciju muzike u pozadini"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "Prikaži medijski specifični fanart u pozadini"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "Sakrij animaciju kapi kiše u pozadini"
 
 msgctxt "#31525"
 msgid "Select rating"
-msgstr ""
+msgstr "Odaberite ocjenu"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "Animiraj sve pozadine fanatika"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "Animirajte pozadine fanatika za sviranje muzike"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "Omogući pozadine fanarta za slajdove izvođača"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "Zamućenje pozadine"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "Samo fanart"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "Samo pozadine"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "Fanart i pozadine"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "Informacije o filmskom setu"
 
 msgctxt "#31538"
 msgid "About"
-msgstr ""
+msgstr "O tome"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "Podržani dodaci"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "Postavite zadani dodatak za preuzimanje teksta pjesme za OSD muzike"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "U toku"
 
 msgctxt "#31543"
 msgid "In cinemas"
-msgstr ""
+msgstr "U kinima"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Predstojeći filmovi"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
-msgstr ""
+msgstr "Negledani filmovi"
 
 msgctxt "#31546"
 msgid "Random movies"
-msgstr ""
+msgstr "Nasumični filmovi"
 
 msgctxt "#31547"
 msgid "Premiered"
-msgstr ""
+msgstr "Premijerno prikazano"
 
 msgctxt "#31553"
 msgid "Settings level"
-msgstr ""
+msgstr "Nivo postavki"
 
 msgctxt "#31554"
 msgid "Autologin"
-msgstr ""
+msgstr "Automatska prijava"

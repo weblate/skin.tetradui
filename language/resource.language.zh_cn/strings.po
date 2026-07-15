@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-02-21 03:15+0000\n"
-"Last-Translator: Eric Chen <cq508@qq.com>\n"
-"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/zh_cn/>\n"
+"PO-Revision-Date: 2026-07-07 21:58+0000\n"
+"Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 2026.7\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
@@ -23,23 +23,23 @@ msgstr "TetradUI 是 Kodi 媒体中心的一个皮肤插件"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUI 是 Kodi 媒体中心的皮肤插件。TetradUI 的目的是为原始 Xbox360 面板中的经典刀片式用户界面打造一个全新的现代风格。在 Blackbolt 团队和 Jezz_X 的项目 MC360 和 JX720 中也可以看到这一点。TetradUI 基于 Jezz_X 的 JX720。[CR]此附加组件由 Jezz_X 和 TeamUI 制作。"
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "媒体"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "应用程序"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "系统"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "天气"
 
 msgctxt "#31005"
 msgid "Apps"
@@ -48,11 +48,11 @@ msgstr "应用"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUI 是 TeamUI 制作的一个充满激情的项目。[CR]这是一个大项目，需要 [I]很多[/I] 的努力来开发和维护。[CR]考虑扫描此二维码并捐款以帮助保持该项目的健康。[CR]任何金额都有很大帮助，非常感谢。"
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "应用"
 
 msgctxt "#31022"
 msgid "Forecast"
@@ -85,11 +85,11 @@ msgstr "页"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "查看选项"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "播放器选项"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
@@ -166,7 +166,7 @@ msgstr "可用"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "插件快捷方式"
 
 msgctxt "#31229"
 msgid "Play speed"
@@ -182,15 +182,15 @@ msgstr "暂停"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "FF"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "倒带"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "缓冲中"
 
 msgctxt "#31235"
 msgid "Now Playing"
@@ -198,27 +198,27 @@ msgstr "正在播放"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "结束时间："
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "欢迎来到 TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "导航通过顶部 logo 按钮完成。[CR] 使用皮肤设置，可将其放置于左上角或居中位置。[CR][CR][B] 顶部 logo 按钮 [/B][CR]在选项卡之间导航：使用向左和向右操作。[CR]点击 logo 按钮：打开快捷方式侧边栏。[CR][CR][B] 菜单列表 [/B][CR]若无小组件或子菜单时：可在菜单列表中通过向左和向右切换选项卡。[CR][CR][B] 小组件（Widgets）[/B][CR]若存在小组件：从菜单列表向左可切换至小部件界面。[CR]使用向左或向右可返回菜单列表。[CR][CR][B] 子菜单列表（Submenu lists）[/B][CR]若存在子菜单：从菜单列表向右可进入子菜单。[CR]子菜单中向左返回主菜单，向右切换至小组件。[CR]若无小组件时，向右直接切换选项卡。"
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "不再显示"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "隐藏频道"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "导航"
 
 msgctxt "#31242"
 msgid "Available groups"
@@ -226,7 +226,7 @@ msgstr "可用组"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "隐藏频道"
 
 msgctxt "#31244"
 msgid "Add group"
@@ -242,7 +242,7 @@ msgstr "删除组"
 
 msgctxt "#31247"
 msgid "Timeshift"
-msgstr "时光平移"
+msgstr "时移"
 
 msgctxt "#31248"
 msgid "Channel group"
@@ -254,11 +254,11 @@ msgstr "最近播放"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "大海报"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "缩略图信息"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
@@ -267,7 +267,7 @@ msgstr "请设置一个音乐源！"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "请设置[CR]电影和电视剧源！"
 
 msgctxt "#31302"
 msgid "Working"
@@ -275,7 +275,7 @@ msgstr "执行中"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "上次登录"
 
 msgctxt "#31304"
 msgid "Memory Usage"
@@ -283,32 +283,32 @@ msgstr "内存耗用"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "关闭电源"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "退出 Kodi"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "隐藏按钮 - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "未启用天气插件，请转到设置/天气以启用天气预报"
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "隐藏小组件"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "安装插件"
 
 msgctxt "#31316"
 msgid "Search add-ons"
@@ -316,11 +316,11 @@ msgstr "搜索插件"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "顶部中心徽标按钮"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "无线电数据系统"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
@@ -329,71 +329,71 @@ msgstr "皮肤默认"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "以 Arial 字体为基础（最适合非英语版本）"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "编辑显示设置，包括：[CR][CR]* 皮肤选择[CR]* 视图选项[CR]* 屏幕保护程序[CR]* 日期和时间"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "查看和管理 Kodi 事件日志，包括：[CR][CR]* 视频库刮削失败[CR]* 插件更新[CR]* PVR 活动"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "配置网络和共享设置，包括：[CR][CR]* 代理与 DNS[CR]* Samba 文件共享[CR]* UPnP 服务器* [CR]Web 服务器[CR]* 外部应用控制"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "重要系统设置，包括：[CR][CR]* 硬件[CR]* 节能[CR]* 输入设备[CR]* 主用户锁定"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "管理用户配置文件，包括：[CR][CR]* 创建配置文件[CR]* 删除配置文件[CR]* 更改用户设置"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "更改皮肤特定设置，包括：[CR][CR]* 窗口背景[CR]* 媒体视图选项[CR]* 图像包[CR]* 其他杂项选项"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "配置 PVR 设置，包括：[CR][CR]* 频道[CR]* 向导[CR]* 播放[CR]* 录制[CR]* 提醒"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "配置播放器设置，包括：[CR][CR]* 库选项[CR]* 硬件加速[CR]* 字幕[CR]* DVD 播放"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "配置媒体设置，包括：[CR][CR]* 库选项[CR]* 文件管理[CR]* 视频、音乐和图片选项"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "有关 Kodi 和硬件的信息，包括：[CR][CR]* 存储[CR]* 网络[CR]* 视频[CR]* 硬件"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "配置游戏设置，包括：[CR][CR]* 游戏玩法选项[CR]* 复古游戏成就系统管理"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "欢迎来到 Kodi[CR]请选择您的配置文件并登录"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "安装插件"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B] 警告！[/B][/COLOR][CR]隐藏所有按钮将导致在选项卡之间切换时出现导航问题。"
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "这些插件将改善皮肤的功能和整体体验。"
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
@@ -403,15 +403,15 @@ msgstr "未安装"
 # empty string with id 31500
 msgctxt "#31501"
 msgid "Featured"
-msgstr "特色"
+msgstr "精选"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "选项卡"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "图像包"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -443,7 +443,7 @@ msgstr "视频播放列表"
 
 msgctxt "#31511"
 msgid "Select default background"
-msgstr ""
+msgstr "选择默认背景"
 
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
@@ -452,27 +452,23 @@ msgstr "游戏设置菜单"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "显示启动画面"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "在后台显示正在播放的视频"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "在背景中显示音乐可视化效果"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "在背景中显示特定媒体的背景图"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "隐藏背景中的雨滴动画效果"
 
 msgctxt "#31525"
 msgid "Select rating"
@@ -480,36 +476,36 @@ msgstr "选择评分"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "为所有背景图启用动画效果"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "播放音乐时启用背景图动画效果"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "启用歌手幻灯片背景图背景"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "模糊背景"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "仅限背景图"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "仅限背景"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "背景图和背景图"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "影片场景信息"
 
 msgctxt "#31538"
 msgid "About"
@@ -517,16 +513,16 @@ msgstr "关于"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "支持的插件"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "为音乐 OSD 设置默认歌词获取插件"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "正在观看"
 
 msgctxt "#31543"
 msgid "In cinemas"

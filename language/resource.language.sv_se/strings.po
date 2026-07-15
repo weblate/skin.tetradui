@@ -7,39 +7,39 @@ msgstr ""
 "Project-Id-Version: Kodi Addons\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-10-25 10:33+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2025-11-08 09:13+0000\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-tetradui/sv_se/>\n"
 "Language: sv_se\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.14.3\n"
 
 msgctxt "Addon Summary"
 msgid "TetradUI is a skin add-on for Kodi media center"
-msgstr ""
+msgstr "TetradUI är ett skaltillägg för Kodi mediacenter"
 
 msgctxt "Addon Description"
 msgid "TetradUI is a skin add-on for Kodi media center. The aim with TetradUI is to create a fresh modern homage of the classic blades-style UI found in the original Xbox360 dashboard. Also seen in the works of Team Blackbolt and Jezz_X with projects MC360 and JX720 respectively. TetradUI is based on JX720 by Jezz_X.[CR]This add-on was created by Jezz_X and TeamUI."
-msgstr ""
+msgstr "TetradUI är ett skaltillägg för Kodi mediacenter. Målet med TetradUI är att skapa en fräsch och modern hyllning till det klassiska användargränssnittet i blades-stil som finns i den ursprungliga instrumentpanelen på Xbox360. Det har också setts i Team Blackbolts och Jezz_X:s arbeten med projekten MC360 respektive JX720. TetradUI är baserat på JX720 av Jezz_X.[CR]Detta tillägg skapades av Jezz_X och TeamUI."
 
 msgctxt "#31001"
 msgid "media"
-msgstr ""
+msgstr "media"
 
 msgctxt "#31002"
 msgid "apps"
-msgstr ""
+msgstr "program"
 
 msgctxt "#31003"
 msgid "system"
-msgstr ""
+msgstr "system"
 
 msgctxt "#31004"
 msgid "weather"
-msgstr ""
+msgstr "väder"
 
 msgctxt "#31005"
 msgid "Apps"
@@ -48,11 +48,11 @@ msgstr "Appar"
 # empty strings from id 31006 to 31009
 msgctxt "#31010"
 msgid "TetradUI is a passion project made by TeamUI.[CR]It's a big project and it takes a [I]lot[/I] of effort to develop and maintain.[CR]Consider scanning this QR and make a donation to help keep this project healthy.[CR]Any amount helps greatly and is much appreciated."
-msgstr ""
+msgstr "TetradUI är ett passionsprojekt som görs av TeamUI.[CR]Det är ett stort projekt och det tar [I]mycket[/I] ansträngning att utveckla och underhålla.[CR]Överväg att skanna denna QR och göra en donation för att hålla detta projekt friskt.[CR]Varje belopp hjälper mycket och är mycket uppskattat."
 
 msgctxt "#31011"
 msgid "Applications"
-msgstr ""
+msgstr "Applikationer"
 
 msgctxt "#31022"
 msgid "Forecast"
@@ -64,7 +64,7 @@ msgstr "Uppdaterad:"
 
 msgctxt "#31024"
 msgid "Current Temperature"
-msgstr ""
+msgstr "Aktuell temperatur"
 
 msgctxt "#31026"
 msgid "Current"
@@ -85,11 +85,11 @@ msgstr "Sida"
 
 msgctxt "#31202"
 msgid "VIEW OPTIONS"
-msgstr ""
+msgstr "VISNINGSALTERNATIV"
 
 msgctxt "#31203"
 msgid "PLAYER OPTIONS"
-msgstr ""
+msgstr "SPELARALTERNATIV"
 
 # empty strings from id 31204 to 31209
 msgctxt "#31210"
@@ -98,7 +98,7 @@ msgstr "Bidragsgivare"
 
 msgctxt "#31211"
 msgid "Rendering speed"
-msgstr ""
+msgstr "Renderingshastighet"
 
 msgctxt "#31212"
 msgid "Memory used"
@@ -110,7 +110,7 @@ msgstr "Hårdvaruavkodning"
 
 msgctxt "#31214"
 msgid "Pixel format"
-msgstr "Pixelformat"
+msgstr "Bildpunktsformat"
 
 msgctxt "#31215"
 msgid "Frames per second"
@@ -118,7 +118,7 @@ msgstr "Bildrutor per sekund"
 
 msgctxt "#31216"
 msgid "aspect ratio"
-msgstr ""
+msgstr "bildförhållande"
 
 msgctxt "#31217"
 msgid "Decoder"
@@ -126,7 +126,7 @@ msgstr "Avkodare"
 
 msgctxt "#31218"
 msgid "Codec"
-msgstr ""
+msgstr "Kodek"
 
 msgctxt "#31219"
 msgid "Video process information"
@@ -162,11 +162,11 @@ msgstr "Växla ljudström"
 
 msgctxt "#31227"
 msgid "available"
-msgstr ""
+msgstr "tillgänglig"
 
 msgctxt "#31228"
 msgid "Add-on shortcut"
-msgstr ""
+msgstr "Genväg för tillägg"
 
 msgctxt "#31229"
 msgid "Play speed"
@@ -178,47 +178,47 @@ msgstr "Spelar"
 
 msgctxt "#31231"
 msgid "Paused"
-msgstr ""
+msgstr "Pausad"
 
 msgctxt "#31232"
 msgid "FF"
-msgstr ""
+msgstr "FF"
 
 msgctxt "#31233"
 msgid "RW"
-msgstr ""
+msgstr "RW"
 
 msgctxt "#31234"
 msgid "Buffering"
-msgstr ""
+msgstr "Buffrar"
 
 msgctxt "#31235"
 msgid "Now Playing"
-msgstr "Nu spelas"
+msgstr "Spelas nu"
 
 msgctxt "#31236"
 msgid "End Time:"
-msgstr ""
+msgstr "Sluttid:"
 
 msgctxt "#31237"
 msgid "Welcome to TetradUI"
-msgstr ""
+msgstr "Välkommen till TetradUI"
 
 msgctxt "#31238"
 msgid "Navigation is done using the top logo button.[CR]Using the skin setting it can either be placed top left or center.[CR][CR][B]Top logo button[/B][CR]Navigating between the blades is done using [I]left[/I] and [I]right[/I].[CR]Clicking the logo button will open a shortcuts sideblade.[CR][CR][B]Menu lists[/B][CR]If no widgets or submenus are present, you can navigate between the blades using [I]left[/I] and [I]right[/I] from the menu lists.[CR][CR][B]Widgets[/B][CR]If widgets are present, [I]left[/I] from the menu lists will take you to the widgets.[CR][I]Left[/I] or [I]right[/I] will take you back to the menu lists.[CR][CR][B]Submenu lists[/B][CR]If submenus are present, [I]right[/I] from the menu lists will take you there.[CR][I]Left[/I] from the submenus will take you back to the menu and [I]right[/I] will take you to the widgets.[CR]If no widgets are present, [I]right[/I] will switch blade."
-msgstr ""
+msgstr "Navigering sker med hjälp av den övre logotypknappen.[CR]Med hjälp av skalinställningen kan den antingen placeras längst upp till vänster eller i mitten.[CR][CR][B]Övre logotypknapp[/B][CR]Navigering mellan bladen sker med hjälp av [I]vänster[/I] och [I]höger[/I]. [CR]Om du klickar på logotypknappen öppnas ett sidoblad med genvägar.[CR][CR][B]Menylistor[/B][CR]Om inga widgetar eller undermenyer finns kan du navigera mellan bladen med [I]vänster[/I] och [I]höger[/I] från menylistorna. [CR][CR][B]Widgetar[/B][CR]Om widgetar finns, tar [I]vänster[/I] från menylistorna dig till widgetarna.[CR][I]Vänster[/I] eller [I]höger[/I] tar dig tillbaka till menylistorna. [CR][CR][B]Undermenylistor[/B][CR]Om det finns undermenyer kommer du dit med [I]höger[/I] från menylistorna.[CR][I]Vänster[/I] från undermenyerna tar dig tillbaka till menyn och [I]höger[/I] tar dig till widgetarna.[CR]Om det inte finns några widgetar byter [I]höger[/I] blad."
 
 msgctxt "#31239"
 msgid "Never show again"
-msgstr ""
+msgstr "Visa aldrig igen"
 
 msgctxt "#31240"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Dolda kanaler"
 
 msgctxt "#31241"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigering"
 
 msgctxt "#31242"
 msgid "Available groups"
@@ -226,7 +226,7 @@ msgstr "Tillgängliga grupper"
 
 msgctxt "#31243"
 msgid "Hidden channels"
-msgstr ""
+msgstr "Dolda kanaler"
 
 msgctxt "#31244"
 msgid "Add group"
@@ -254,20 +254,20 @@ msgstr "Nyligen spelat"
 
 msgctxt "#31250"
 msgid "Poster Big"
-msgstr ""
+msgstr "Poster stor"
 
 msgctxt "#31251"
 msgid "Thumb Info"
-msgstr ""
+msgstr "Miniatyrinfo"
 
 # empty strings from id 31252 to 31299
 msgctxt "#31300"
 msgid "Please setup a music source!"
-msgstr ""
+msgstr "Ställ in en musikkälla!"
 
 msgctxt "#31301"
 msgid "Please setup[CR]movie and tv show sources!"
-msgstr ""
+msgstr "Konfigurera källor[CR]för film- och tv-serier!"
 
 msgctxt "#31302"
 msgid "Working"
@@ -275,40 +275,40 @@ msgstr "Arbetar"
 
 msgctxt "#31303"
 msgid "Last logged on"
-msgstr ""
+msgstr "Senast inloggad"
 
 msgctxt "#31304"
 msgid "Memory Usage"
-msgstr ""
+msgstr "Minnesanvändning"
 
 msgctxt "#31305"
 msgid "Reset"
-msgstr ""
+msgstr "Starta om"
 
 msgctxt "#31306"
 msgid "Power off"
-msgstr ""
+msgstr "Stäng ner"
 
 msgctxt "#31307"
 msgid "Quit Kodi"
-msgstr ""
+msgstr "Avsluta Kodi"
 
 # empty string with id 31308
 msgctxt "#31309"
 msgid "Hide Button - "
-msgstr ""
+msgstr "Dölj knapp - "
 
 msgctxt "#31313"
 msgid "No Weather add-on enabled go to Settings/Weather to enable weather forecast"
-msgstr ""
+msgstr "Inget vädertillägg aktiverat, gå till Inställningar/Väder för att aktivera väderprognosen"
 
 msgctxt "#31314"
 msgid "Hide widgets"
-msgstr ""
+msgstr "Dölj widgetar"
 
 msgctxt "#31315"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Installera tillägg"
 
 msgctxt "#31316"
 msgid "Search add-ons"
@@ -316,89 +316,89 @@ msgstr "Sök bland tillägg"
 
 msgctxt "#31317"
 msgid "Center top logo button"
-msgstr ""
+msgstr "Logotypknapp i mitten på ovansidan"
 
 msgctxt "#31318"
 msgid "RDS"
-msgstr ""
+msgstr "RDS"
 
 # empty strings from id 31319 to 31389
 msgctxt "#31390"
 msgid "Skin default"
-msgstr "Skalets standard"
+msgstr "Skalets standardvärde"
 
 msgctxt "#31391"
 msgid "Arial based (best for Non-English)"
-msgstr ""
+msgstr "Arial-baserad (bäst för icke-engelska)"
 
 # empty strings from id 31392 to 31399
 msgctxt "#31400"
 msgid "Edit your display settings, including:[CR][CR]* Skin selection[CR]* View options[CR]* Screensaver[CR]* Date & time"
-msgstr ""
+msgstr "Redigera dina skärminställningar, inklusive:[CR][CR]* Val av skalCR]* Visningsalternativ[CR]* Skärmsläckare[CR]* Datum & tid"
 
 # empty string with id 31401
 msgctxt "#31402"
 msgid "Watch and manage the logging of Kodi events, including:[CR][CR]* Failed video library scraping[CR]* Add-on updates[CR]* PVR activities"
-msgstr ""
+msgstr "Se och hantera loggning av Kodi-händelser, inklusive:[CR][CR]* Misslyckad skrapning av videobibliotek[CR]* Uppdateringar av tillägg[CR]* PVR-aktiviteter"
 
 msgctxt "#31403"
 msgid "Configure network and sharing settings, including:[CR][CR]* Proxy & DNS[CR]* Samba file sharing[CR]* UPNP server[CR]* Web server[CR]* External app control"
-msgstr ""
+msgstr "Konfigurera inställningar för nätverk och delning, inklusive:[CR][CR]* Proxy & DNS[CR]* Samba-fildelning[CR]* UPNP-server[CR]* Webbserver[CR]* Extern appkontroll"
 
 msgctxt "#31404"
 msgid "Important system settings, including:[CR][CR]* Hardware[CR]* Power saving[CR]* Input devices[CR]* Master user locking"
-msgstr ""
+msgstr "Viktiga systeminställningar, inklusive:[CR][CR]* Hårdvara[CR]* Energisparande[CR]* Inmatningsenheter[CR]* Huvudlåsning för användare"
 
 msgctxt "#31405"
 msgid "Manage user profiles, including:[CR][CR]* Creating profiles[CR]* Deleting profiles[CR]* Changing user settings"
-msgstr ""
+msgstr "Hantera användarprofiler, inklusive:[CR][CR]* Skapa profiler[CR]* Ta bort profiler[CR]* Ändra användarinställningar"
 
 msgctxt "#31406"
 msgid "Change skin specific settings, including:[CR][CR]* Window backgrounds[CR]* Media view options[CR]* Image packs[CR]* Other misc. options"
-msgstr ""
+msgstr "Ändra skalspecifika inställningar, inklusive:[CR][CR]* Fönsterbakgrunder[CR]* Alternativ för medievy[CR]* Bildpaket[CR]* Andra diverse alternativ"
 
 msgctxt "#31407"
 msgid "Configure PVR settings, including:[CR][CR]* Channels[CR]* Guide[CR]* Playback[CR]* Recordings[CR]* Reminders"
-msgstr ""
+msgstr "Konfigurera PVR-inställningar, inklusive:[CR][CR]* Kanaler[CR]* Tablå[CR]* Uppspelning[CR]* Inspelningar[CR]* Påminnelser"
 
 msgctxt "#31408"
 msgid "Configure player settings, including:[CR][CR]* Library options[CR]* Hardware acceleration[CR]* Subtitles[CR]* DVD playback"
-msgstr ""
+msgstr "Konfigurera spelarinställningar, inklusive:[CR][CR]* Biblioteksalternativ[CR]* Hårdvaruacceleration[CR]* Undertexter[CR]* DVD-uppspelning"
 
 msgctxt "#31409"
 msgid "Configure media settings, including:[CR][CR]* Library options[CR]* File management[CR]* Videos, music, pictures options"
-msgstr ""
+msgstr "Konfigurera medieinställningar, inklusive:[CR][CR]* Biblioteksalternativ[CR]* Filhantering[CR]* Alternativ för videor, musik och bilder"
 
 msgctxt "#31410"
 msgid "Information on Kodi and your hardware, including:[CR][CR]* Storage[CR]* Network[CR]* Video[CR]* Hardware"
-msgstr ""
+msgstr "Information om Kodi och din hårdvara, inklusive:[CR][CR]* Lagring[CR]* Nätverk[CR]* Video[CR]* Hårdvara"
 
 msgctxt "#31411"
 msgid "Configure game settings, including:[CR][CR]* Gameplay options[CR]* RetroAchievements management"
-msgstr ""
+msgstr "Konfigurera spelinställningar, inklusive:[CR][CR]* Spelalternativ[CR]* RetroAchievements-hantering"
 
 # empty strings from id 31412 to 31458
 msgctxt "#31460"
 msgid "Welcome to Kodi[CR]Please choose your profile and log in"
-msgstr ""
+msgstr "Välkommen till Kodi[CR]Välj din profil och logga in"
 
 msgctxt "#31461"
 msgid "Install add-ons"
-msgstr ""
+msgstr "Installera tillägg"
 
 # empty strings from id 31462 to 31479
 msgctxt "#31480"
 msgid "[COLOR=orange][B]WARNING[/B] !![/COLOR][CR]Hiding all buttons will cause Navigation issues when switching between blades."
-msgstr ""
+msgstr "[COLOR=orange][B]VARNING[/B] !![/COLOR][CR]Att dölja alla knappar kommer att orsaka navigeringsproblem när du växlar mellan blad."
 
 msgctxt "#31481"
 msgid "These add-ons will improve the features and overall experience of the skin."
-msgstr ""
+msgstr "Dessa tillägg kommer att förbättra funktionerna och den övergripande upplevelsen av skalet."
 
 # empty strings from id 31482 to 31498
 msgctxt "#31499"
 msgid "Not installed"
-msgstr ""
+msgstr "Inte installerat"
 
 # empty string with id 31500
 msgctxt "#31501"
@@ -407,11 +407,11 @@ msgstr "Utvald"
 
 msgctxt "#31502"
 msgid "Blades"
-msgstr ""
+msgstr "Blad"
 
 msgctxt "#31503"
 msgid "Image packs"
-msgstr ""
+msgstr "Bildpaket"
 
 msgctxt "#31504"
 msgid "Change mode"
@@ -427,7 +427,7 @@ msgstr "Lokal undertext tillgänglig"
 
 msgctxt "#31507"
 msgid "Search local library"
-msgstr "Sök lokala biblioteket"
+msgstr "Sök i lokalt bibliotek"
 
 msgctxt "#31508"
 msgid "Search YouTube"
@@ -443,73 +443,69 @@ msgstr "Videospellista"
 
 msgctxt "#31511"
 msgid "Select default background"
-msgstr ""
+msgstr "Välj standardbakgrund"
 
 # empty strings from id 31511 to 31517
 msgctxt "#31518"
 msgid "Game Settings Menu"
-msgstr ""
+msgstr "Meny för spelinställningar"
 
 msgctxt "#31519"
 msgid "Show splash screen"
-msgstr ""
+msgstr "Visa startskärm"
 
 msgctxt "#31520"
 msgid "Show now playing video in the background"
-msgstr ""
+msgstr "Visa video som Spelas nu i bakgrunden"
 
 msgctxt "#31521"
 msgid "Show music visualization in the background"
-msgstr ""
+msgstr "Visa musikvisualisering i bakgrunden"
 
 msgctxt "#31522"
 msgid "Show media specific fanart in the background"
-msgstr ""
+msgstr "Visa mediespecifik fanart i bakgrunden"
 
 msgctxt "#31523"
 msgid "Hide rain drop animation in the background"
-msgstr ""
-
-msgctxt "#31524"
-msgid "Don't blend background with fanart,visualization,video"
-msgstr ""
+msgstr "Dölj animering av regndroppar i bakgrunden"
 
 msgctxt "#31525"
 msgid "Select rating"
-msgstr ""
+msgstr "Välj betyg"
 
 msgctxt "#31526"
 msgid "Animate all fanart backgrounds"
-msgstr ""
+msgstr "Animera alla fanart-bakgrunder"
 
 msgctxt "#31527"
 msgid "Animate fanart backgrounds for music playing"
-msgstr ""
+msgstr "Animera fanart-bakgrunder för musikspelande"
 
 msgctxt "#31528"
 msgid "Enable Artist Slideshow fanart backgrounds"
-msgstr ""
+msgstr "Aktivera artistbildspel fanart-bakgrunder"
 
 msgctxt "#31529"
 msgid "Blur backgrounds"
-msgstr ""
+msgstr "Suddiga bakgrunder"
 
 msgctxt "#31530"
 msgid "Fanart only"
-msgstr ""
+msgstr "Endast fanart"
 
 msgctxt "#31531"
 msgid "Backgrounds only"
-msgstr ""
+msgstr "Endast bakgrunder"
 
 msgctxt "#31532"
 msgid "Fanart and backgrounds"
-msgstr ""
+msgstr "Fanart och bakgrunder"
 
 # empty strings from id 31533 to 31536
 msgctxt "#31537"
 msgid "Movie set information"
-msgstr ""
+msgstr "Information om filmuppsättning"
 
 msgctxt "#31538"
 msgid "About"
@@ -517,16 +513,16 @@ msgstr "Om"
 
 msgctxt "#31539"
 msgid "Supported add-ons"
-msgstr ""
+msgstr "Tillägg som stöds"
 
 msgctxt "#31540"
 msgid "Set Default Lyric fetching add-on for Music OSD"
-msgstr ""
+msgstr "Ställ in standardtillägg för hämtning av låttexter för Musik-OSD"
 
 # empty string with id 31543
 msgctxt "#31542"
 msgid "In progress"
-msgstr ""
+msgstr "Pågår"
 
 msgctxt "#31543"
 msgid "In cinemas"
@@ -534,15 +530,15 @@ msgstr "På bio"
 
 msgctxt "#31544"
 msgid "Upcoming movies"
-msgstr ""
+msgstr "Kommande filmer"
 
 msgctxt "#31545"
 msgid "Unwatched movies"
-msgstr "Ej visade filmer"
+msgstr "Osedda filmer"
 
 msgctxt "#31546"
 msgid "Random movies"
-msgstr "Slumpvalda filmer"
+msgstr "Slumpmässiga filmer"
 
 msgctxt "#31547"
 msgid "Premiered"
@@ -554,7 +550,7 @@ msgstr "Inställningsnivå"
 
 msgctxt "#31554"
 msgid "Autologin"
-msgstr ""
+msgstr "Automatisk inloggning"
 
 #~ msgctxt "#31021"
 #~ msgid "Current Temp"
